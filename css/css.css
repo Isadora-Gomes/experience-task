@@ -1,0 +1,66 @@
+/* login */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+img{
+    width: 330px;
+    margin-top: 30px;
+}
+body{
+    background-color: #483d8B;
+}
+a {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
+main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 110vh; 
+}
+input{
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+}
+label{
+    display: block;
+    width: 80px;
+    margin-top: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+button{
+    height: 40px;
+    width: 80px;
+    margin-top: 40px;
+    border-radius: 10px;
+    background-color: rgb(102, 100, 100);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+button:hover{
+    background-color: #483d8B;
+}
+h1 {
+   text-transform: uppercase;
+   color: white;
+}
+h4{
+    color: white;
+    text-align: left;
+    margin-left: 30px;
+}
+form{
+    padding: 30px;
+}
+div {
+    background-color: #8964df;
+    border-radius: 17px;
+    width: 370px;
+    height: 540px;
+}
